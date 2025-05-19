@@ -1,0 +1,8 @@
+@baseUrl  = http://127.0.0.1:8000
+### Download Media
+POST {{baseUrl}}/download
+Content-Type: application/json
+
+{
+  "url": "https://www.youtube.com/watch?v=J9ahZRa7ul0"
+}
