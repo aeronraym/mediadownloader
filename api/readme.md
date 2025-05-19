@@ -162,7 +162,3 @@ Response:
 - Always restart your terminal/server after updating `.env` or installing new dependencies.
 
 ---
-
-## License
-
-MIT
